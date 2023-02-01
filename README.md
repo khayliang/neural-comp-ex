@@ -1,2 +1,2 @@
 # neural-comp-ex
-Collection of neuronal and brain models
+This repository contains Berkleley VS265: Neural Computation labs and exercises.
